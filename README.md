@@ -1,3 +1,0 @@
-# Trashclassification
-
-In Folder
